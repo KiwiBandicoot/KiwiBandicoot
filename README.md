@@ -1,13 +1,3 @@
-<h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" alt="bash" width="45" height="90"/>
-<img src="https://banner2.cleanpng.com/20180802/tpl/8d69cc4026ef9ea2fbc9f5972dd52fe7.webp" alt="php" width="45" height="45"/>
-<img src="https://a.thumbs.redditmedia.com/TgCwYGguItaoCO5T9B3_d_LT_yiUaNL4-nuMp6neH70.png" alt="php" width="45" height="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="php" width="45" height="45"/>
-</p>
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=hello&height=100&section=header"/>
 </p>
@@ -60,6 +50,10 @@ hobbies: ["Gaming", "Outdoors", "Nerdy"]
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" alt="bash" width="45" height="90"/>
+<img src="https://banner2.cleanpng.com/20180802/tpl/8d69cc4026ef9ea2fbc9f5972dd52fe7.webp" alt="php" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
+<img src="https://a.thumbs.redditmedia.com/TgCwYGguItaoCO5T9B3_d_LT_yiUaNL4-nuMp6neH70.png" alt="php" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
