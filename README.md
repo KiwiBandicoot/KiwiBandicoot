@@ -4,5 +4,3 @@
 
 <a href="www.linkedin.com/in/david-hocking/">
   <img  height="50" src="https://github.com/user-attachments/assets/eb6b61af-8805-41e1-8447-62833de49bf0" />
-"/>
-</a>
