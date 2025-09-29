@@ -28,6 +28,7 @@ education:
   [
     "AUT University",
     "Graduate Diploma in Computer and Information Sciences",
+    "Bachelor of Sport and Recreation",
   ]
 
 fields_of_interests:
