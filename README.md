@@ -41,6 +41,7 @@ technical_background:
   [
     "Full Stack Developer"
     "Technical Support",
+    "Outdoor shenanigans"
   ]
 
 hobbies: ["Gaming", "Outdoors", "Nerdy"]
