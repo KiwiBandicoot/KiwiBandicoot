@@ -23,10 +23,10 @@
 ```yaml
 name: David Hocking
 located_in: Auckland | New Zealand
-current_job: Full Stack Developer
+current_job: Part Time Outdoor Adventure Lead
 education:
   [
-    "AUT",
+    "AUT University",
     "Graduate Diploma in Computer and Information Sciences",
   ]
 
