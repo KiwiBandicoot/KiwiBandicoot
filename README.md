@@ -42,12 +42,6 @@ hobbies:
   
 <h2 align="center"> 🚀 &nbsp;Tools of the Trade</h2>
 <p align="center">
-  <a href="https://www.instagram.com/dmjhocking/">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-  </a>
-  <a href="https://www.linkedin.com/in/david-hocking">
-    <img height="50" src="https://github.com/user-attachments/assets/eb6b61af-8805-41e1-8447-62833de49bf0"/>
-  </a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
 <img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" alt="bash" width="45" height="90"/>
