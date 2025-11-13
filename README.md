@@ -13,27 +13,19 @@ current_job: Part Time Outdoor Adventure Lead
 education:
   [
     "AUT University",
-    "Graduate Diploma in Computer and Information Sciences",
-    "Bachelor of Sport and Recreation",
+    "Graduate Diploma in Computer and Information Sciences"
   ]
 
 fields_of_interests:
   [
     "Rust Community Projects",
-    "Software Engineering"
-    "Game Development",
-  ]
-technical_background:
-  [
-    "Full Stack Developer"
-    "Technical Support",
-    "Outdoor shenanigans"
+    "Indie Game Development"
   ]
 
 hobbies:
   [
     "Gaming",
-    "Outdoors",
+    "Running",
     "Food"
   ]
 ```
