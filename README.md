@@ -38,7 +38,7 @@ hobbies:
 <img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" alt="bash" width="45" height="90"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-<img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/video-games/unreal-engine-v6qhqm91l290ebxomrwbvvb.png/unreal-engine-gzf7v55qnhm8q3rl756rl.png?_a=DATAg1AAZAA0" alt="html" width="45" height="45"/>
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/unreal-engine-icon.png" alt="html" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 </p>
 
