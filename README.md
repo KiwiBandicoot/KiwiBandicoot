@@ -38,7 +38,7 @@ hobbies:
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" alt="rust" width="45" height="90"/>
-<img src="https://bevy.org/assets/bevy_logo_docs.svg" alt="bevy" width="45" height="45"/>
+<img src="bevy_logo.png" alt="bevy" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="45" height="45"/>
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/unreal-engine-icon.png" alt="ue5" width="45" height="45"/>
