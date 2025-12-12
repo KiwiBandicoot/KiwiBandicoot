@@ -37,11 +37,11 @@ hobbies:
 <h2 align="center"> 🚀 &nbsp;Tools of the Trade</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" alt="bash" width="45" height="90"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201" width="45" height="45"/>
+<img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" alt="rust" width="45" height="90"/>
+<img src="https://seeklogo.com/images/B/bevy-engine-logo-25F6DD58BF-seeklogo.com.png" alt="bevy" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="45" height="45"/>
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/unreal-engine-icon.png" alt="html" width="45" height="45"/>
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/unreal-engine-icon.png" alt="ue5" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 </p>
 
