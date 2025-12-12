@@ -19,14 +19,16 @@ education:
 fields_of_interests:
   [
     "Rust Community Projects",
-    "Indie Game Development"
+    "Indie Game Development",
+    "System Development",
+    "Building Useful Tools"
   ]
 
 hobbies:
   [
-    "Gaming",
     "Running",
-    "Food"
+    "Gaming",
+    "Lifting Heavy"
   ]
 ```
 
