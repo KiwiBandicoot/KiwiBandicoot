@@ -41,8 +41,6 @@ hobbies:
 <img src="bevy_logo.png" alt="bevy" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="45" height="45"/>
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/unreal-engine-icon.png" alt="ue5" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 </p>
 
 ---
