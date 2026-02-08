@@ -27,8 +27,8 @@ fields_of_interests:
 hobbies:
   [
     "Running",
-    "Gaming",
-    "Lifting Heavy"
+    "Social Gaming",
+    "Occasional Lifting Heavy"
   ]
 ```
 
