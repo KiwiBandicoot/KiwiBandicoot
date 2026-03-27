@@ -20,15 +20,13 @@ fields_of_interests:
   [
     "Rust Community Projects",
     "Indie Game Development",
-    "System Development",
-    "Building Useful Tools"
   ]
 
 hobbies:
   [
     "Running",
     "Social Gaming",
-    "Occasional Lifting Heavy"
+    "Occasional Heavy Lifting"
   ]
 ```
 
