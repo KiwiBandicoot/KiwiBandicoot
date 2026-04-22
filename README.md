@@ -25,8 +25,8 @@ fields_of_interests:
 hobbies:
   [
     "Running",
-    "Social Gaming",
-    "Occasional Heavy Lifting"
+    "Gaming",
+    "Heavy Lifting"
   ]
 ```
 
@@ -34,7 +34,6 @@ hobbies:
   
 <h2 align="center"> 🚀 &nbsp;Tools of the Trade</h2>
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" alt="rust" width="45" height="90"/>
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/unity-game-engine-icon.png" alt="Unity" width="45" height="45"/>
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-sharp-programming-language-icon.png" alt="c#" width="45" height="45"/>
