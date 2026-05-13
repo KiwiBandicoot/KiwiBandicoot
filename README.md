@@ -20,8 +20,8 @@ fields_of_interests:
 
 hobbies:
   [
-    "Running",
-    "Gaming",
-    "Heavy Lifting"
+    "White Water Kayaking"
+    "Calisthenics"
+    "Local Run Club"
   ]
 ```
