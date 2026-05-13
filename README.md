@@ -15,7 +15,7 @@ education:
 fields_of_interests:
   [
     "Rust Community Projects",
-    "Indie Game Development",
+    "Indie Unity Game Development",
   ]
 
 hobbies:
