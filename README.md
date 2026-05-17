@@ -5,7 +5,7 @@
 ```yaml
 name: David Hocking
 located_in: Auckland | New Zealand
-current_job: Part Time Outdoor Adventure Lead
+current_job: Part Time Unity & Web Game Dev
 education:
   [
     "AUT University",
