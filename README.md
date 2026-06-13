@@ -21,7 +21,6 @@ fields_of_interests:
 hobbies:
   [
     "White Water Kayaking"
-    "Calisthenics"
     "Local Run Club"
   ]
 ```
