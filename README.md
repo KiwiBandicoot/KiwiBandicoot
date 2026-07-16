@@ -5,7 +5,7 @@
 ```yaml
 name: David Hocking
 located_in: Auckland | New Zealand
-current_job: Part Time Unity & Web Game Dev
+current_job: Part Time Unity Game Dev
 education:
   [
     "AUT University",
