@@ -8,21 +8,21 @@ located_in: Auckland | New Zealand
 current_job: Part Time Unity Game Dev
 education:
   [
-    "AUT University"
-    "Graduate Diploma"
+    "AUT University",
+    "Graduate Diploma",
     "Computer and Information Sciences"
   ]
 
 fields_of_interests:
   [
-    "Building Tools"
-    "Rust Community Projects"
+    "Building Tools",
+    "Rust Community Projects",
     "Indie Game Development"
   ]
 
 hobbies:
   [
-    "White Water Kayaking"
+    "White Water Kayaking",
     "Local Run Club"
   ]
 ```
