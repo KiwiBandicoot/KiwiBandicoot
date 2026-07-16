@@ -8,8 +8,9 @@ located_in: Auckland | New Zealand
 current_job: Part Time Unity Game Dev
 education:
   [
-    "AUT University",
-    "Graduate Diploma in Computer and Information Sciences"
+    "AUT University"
+    "Graduate Diploma"
+    "Computer and Information Sciences"
   ]
 
 fields_of_interests:
